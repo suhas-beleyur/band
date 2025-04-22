@@ -66,6 +66,11 @@ footer {
 
 }
 
+.w, .a, .s, .d, .j, .k, .l {
+  background-size: cover;
+  background-position: center;
+}
+
 .set {
   margin: 10% auto;
 }
